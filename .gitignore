@@ -1,0 +1,5 @@
+*.png
+*cache*
+*.txt
+*.pyc
+*DS_Store
